@@ -119,8 +119,68 @@ The `<script>` tag is used to add JavaScript to a webpage or link an external Ja
 
 ✅ **Day 2 Completed Successfully**
 
+
+📅 Day 03 and 04 
+📅 Date: 01-07-2026
+📚 What I Learned Today
+🎵 HTML Audio Element
+
+Used to embed sound in a webpage.
+
+🎬 HTML Video Element
+
+Used to embed video content in a webpage.
+
+🎛️ Media Attributes
+controls → play/pause buttons
+loop → repeats media
+muted → starts without sound
+autoplay → plays automatically
+📦 <source> Element
+
+Provides multiple file formats for better browser support.
+
+⚡ Media Optimization
+📏 Image Size
+
+Match image size with display size for better performance.
+
+🖼️ Image Formats
+PNG → lossless (high quality)
+JPG → lossy (compressed)
+WEBP / AVIF → modern, optimized formats
+🗜️ Compression
+
+Reduces file size to improve website speed.
+
+⚖️ Image Licenses
+©️ Copyright → protected content
+🚫 All Rights Reserved → permission needed
+🧠 Fair Use → limited use (review/parody)
+📜 Creative Commons → free with conditions
+🌍 CC0 / Public Domain → free use
+🖼️ Unsplash / Pixabay → free image sources
+🎨 SVG (Scalable Vector Graphics)
+📐 SVG → vector-based image
+🟦 Raster → PNG/JPG (pixel-based)
+🚫 Raster zoom → blurry
+✅ SVG zoom → no quality loss
+SVG Elements:
+<svg> → container
+<circle> → circle shape
+<path> → custom shapes
+fill → color
+stroke → border
+📦 Replaced Elements
+📦 Content comes from external source
+🖼️ Examples → <img>, <video>, <iframe>
+🎨 CSS → only layout control
+🚫 Cannot style inner content
+🌐 <iframe> → website inside webpage
+📊 Progress
+
 ### 🌟 Progress
 
-✅ 84 of 137 steps completed
+✅ 91 of 137 steps completed
 
 Keep learning and building projects every day!
